@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+git boogers2
+=======
+asdf asdfasdfasfdasfasdfaf boogers2
+>>>>>>> badbad
